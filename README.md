@@ -1,4 +1,4 @@
-## Hi there 👋
+PixelPlex is your go-to blockchain development powerhouse. We architect and deliver next-gen software solutions, from complex dApps and secure smart contracts to bespoke NFT platforms, crypto wallets, and exchanges. With over 450 successful projects launched since 2007, we have the expertise to bring your most ambitious Web3 ideas to life.
 
 <!--
 **pixelplex/pixelplex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
